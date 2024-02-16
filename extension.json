@@ -1,7 +1,7 @@
 {
   "name": "Mellow",
   "version": "0.0.1",
-  "authors": ["sonodima"],
+  "authors": ["sonodima <sonodimaa@icloud.com>"],
   "description": "Zed port of the Mellow color scheme",
   "repository": "https://github.com/sonodima/zed-mellow",
   "themes": {
