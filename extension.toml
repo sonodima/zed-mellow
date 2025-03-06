@@ -1,0 +1,10 @@
+name = "Mellow"
+version = "0.0.2"
+authors = ["sonodima <sonodimaa@icloud.com>"]
+description = "Zed port of the Mellow color scheme"
+repository = "https://github.com/sonodima/zed-mellow"
+id = "mellow"
+schema_version = 1
+
+[themes]
+Mellow = "themes/mellow.json"
