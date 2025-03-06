@@ -55,7 +55,7 @@
 
         "scrollbar.track.background": "#27272a",
         "scrollbar.track.border": "#3e3e43",
-        "scrollbar_thumb.background": "#9998a828",
+        "scrollbar.thumb.background": "#9998a828",
         "scrollbar.thumb.hover_background": null,
         "scrollbar.thumb.border": null,
 
